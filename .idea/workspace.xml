@@ -18,7 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Thesis$Main.coverage" NAME="Main Coverage Results" MODIFIED="1538074353684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Thesis$Thesis.coverage" NAME="Thesis Coverage Results" MODIFIED="1538589530367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Thesis$Thesis.coverage" NAME="Thesis Coverage Results" MODIFIED="1539086236496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -54,7 +54,7 @@
     <session id="-1640012091">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="3" />
@@ -64,22 +64,23 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="21" />
           <entry key="csv" value="7" />
-          <entry key="py" value="6324" />
+          <entry key="py" value="6581" />
           <entry key="sql" value="256" />
           <entry key="txt" value="29" />
         </counts>
@@ -88,18 +89,18 @@
         <counts>
           <entry key="CSV" value="7" />
           <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="6345" />
+          <entry key="Python" value="6602" />
           <entry key="SQL" value="126" />
           <entry key="Scratch" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Rating" value="3" />
+          <entry key="Rating" value="4" />
           <entry key="cpp" value="1" />
-          <entry key="csv" value="43" />
+          <entry key="csv" value="51" />
           <entry key="dvd" value="1" />
-          <entry key="ipynb" value="2" />
+          <entry key="ipynb" value="3" />
           <entry key="py" value="2" />
           <entry key="sql" value="3" />
           <entry key="txt" value="1" />
@@ -108,9 +109,9 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="1" />
-          <entry key="CSV" value="43" />
-          <entry key="Database Element" value="4" />
-          <entry key="IPNB" value="2" />
+          <entry key="CSV" value="51" />
+          <entry key="Database Element" value="5" />
+          <entry key="IPNB" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="2" />
           <entry key="Scratch" value="3" />
@@ -128,38 +129,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/322da9a4-0eb4-4e48-8ef2-4f2bc145998c/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/driver.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/sampleData.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36956">
-              <caret line="32764" column="3" selection-start-line="32764" selection-end-line="32764" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/movies.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/322da9a4-0eb4-4e48-8ef2-4f2bc145998c/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -216,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,13 +384,13 @@
     <frame x="45" y="-14" width="1322" height="783" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49557522" visible="true" weight="0.15649453" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49557522" visible="true" weight="0.1658842" />
       <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.14788732" />
       <window_info id="Favorites" order="2" sideWeight="0.50442475" side_tool="true" weight="0.15023474" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32924962" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49921754" weight="0.32771823" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.7660407" visible="true" weight="0.19142419" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.7652582" visible="true" weight="0.19142419" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49960783" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -415,8 +398,8 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" sideWeight="0.49843505" weight="0.32924962" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32924962" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.23395932" side_tool="true" visible="true" weight="0.19142419" />
-      <window_info anchor="bottom" x="46" y="21" width="1320" height="747" id="Terminal" order="12" sideWeight="0.6799687" weight="0.34762633" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.23474178" side_tool="true" visible="true" weight="0.19142419" />
+      <window_info anchor="bottom" x="46" y="21" width="1320" height="747" id="Terminal" order="12" sideWeight="0.6744914" weight="0.2388974" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4972549" weight="0.32771823" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -424,8 +407,8 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.32942098" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" sideWeight="0.49083504" weight="0.22378717" />
-      <window_info anchor="right" x="0" y="0" width="280" height="572" id="Documentation" order="7" sideWeight="0.509165" side_tool="true" weight="0.22378717" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.47916666" visible="true" weight="0.22378717" />
+      <window_info anchor="right" x="0" y="0" width="280" height="572" id="Documentation" order="7" sideWeight="0.5208333" side_tool="true" visible="true" weight="0.22378717" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,21 +438,6 @@
     <entry file="file://$PROJECT_DIR$/library/filled_rating.csv">
       <provider selected="true" editor-type-id="LargeFileEditor" />
     </entry>
-    <entry file="das://322da9a4-0eb4-4e48-8ef2-4f2bc145998c/schema/bogo/table/Rating" />
-    <entry file="file://$PROJECT_DIR$/Resource/tags.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="55" column="14" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/user.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="89" column="2" lean-forward="true" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resource/generateSampleData.cpp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -480,32 +448,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/genome-scores.csv">
+    <entry file="file://$PROJECT_DIR$/library/user_rating_sum.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://322da9a4-0eb4-4e48-8ef2-4f2bc145998c/schema/bogo/table/Rating">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/sampleData.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491460">
+          <caret line="32764" column="3" selection-start-line="32764" selection-end-line="32764" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/user.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="104" column="3" lean-forward="true" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/ratings.csv">
       <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="375">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/sampleData.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/movies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/tags.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resource/genome-tags.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/genome-scores.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resource/links.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resource/movies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1725">
-          <caret line="155" column="40" lean-forward="true" selection-start-line="155" selection-start-column="40" selection-end-line="155" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/322da9a4-0eb4-4e48-8ef2-4f2bc145998c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/movies.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -514,13 +516,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/library/user_rating_sum.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/sampleData.csv">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/322da9a4-0eb4-4e48-8ef2-4f2bc145998c/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36956">
-          <caret line="32764" column="3" selection-start-line="32764" selection-end-line="32764" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
