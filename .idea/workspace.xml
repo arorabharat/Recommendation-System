@@ -18,7 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Thesis$Main.coverage" NAME="Main Coverage Results" MODIFIED="1538074353684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Thesis$Thesis.coverage" NAME="Thesis Coverage Results" MODIFIED="1539086236496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Thesis$Thesis.coverage" NAME="Thesis Coverage Results" MODIFIED="1539087121046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,36 +31,20 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="bogo@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="bogo@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="bogo@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="bogo: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1640012091">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
@@ -73,14 +57,14 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="21" />
           <entry key="csv" value="7" />
-          <entry key="py" value="6581" />
+          <entry key="py" value="6977" />
           <entry key="sql" value="256" />
           <entry key="txt" value="29" />
         </counts>
@@ -89,14 +73,14 @@
         <counts>
           <entry key="CSV" value="7" />
           <entry key="PLAIN_TEXT" value="29" />
-          <entry key="Python" value="6602" />
+          <entry key="Python" value="6998" />
           <entry key="SQL" value="126" />
           <entry key="Scratch" value="130" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Rating" value="4" />
+          <entry key="Rating" value="5" />
           <entry key="cpp" value="1" />
           <entry key="csv" value="51" />
           <entry key="dvd" value="1" />
@@ -110,7 +94,7 @@
         <counts>
           <entry key="C++" value="1" />
           <entry key="CSV" value="51" />
-          <entry key="Database Element" value="5" />
+          <entry key="Database Element" value="6" />
           <entry key="IPNB" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="2" />
@@ -132,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/322da9a4-0eb4-4e48-8ef2-4f2bc145998c/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="225">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -142,7 +126,16 @@
         <entry file="file://$PROJECT_DIR$/driver.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="13" />
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://322da9a4-0eb4-4e48-8ef2-4f2bc145998c/schema/bogo/table/Rating">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -221,6 +214,11 @@
               <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thesis" type="462c0819:PsiDirectoryNode" />
               <item name="Resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thesis" type="462c0819:PsiDirectoryNode" />
+              <item name="test_csv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Thesis" type="b2602c69:ProjectViewProjectNode" />
@@ -384,13 +382,13 @@
     <frame x="45" y="-14" width="1322" height="783" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49557522" visible="true" weight="0.1658842" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49557522" visible="true" weight="0.1682316" />
       <window_info id="Structure" order="1" sideWeight="0.5022831" side_tool="true" weight="0.14788732" />
       <window_info id="Favorites" order="2" sideWeight="0.50442475" side_tool="true" weight="0.15023474" />
       <window_info anchor="bottom" id="Database Console" order="0" weight="0.32924962" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49921754" weight="0.32771823" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.7652582" visible="true" weight="0.19142419" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.76447576" visible="true" weight="0.32618684" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49960783" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -398,8 +396,8 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" sideWeight="0.49843505" weight="0.32924962" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32924962" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.23474178" side_tool="true" visible="true" weight="0.19142419" />
-      <window_info anchor="bottom" x="46" y="21" width="1320" height="747" id="Terminal" order="12" sideWeight="0.6744914" weight="0.2388974" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.23552425" side_tool="true" visible="true" weight="0.32618684" />
+      <window_info anchor="bottom" x="46" y="21" width="1320" height="747" id="Terminal" order="12" sideWeight="0.6729264" weight="0.2388974" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.4972549" weight="0.32771823" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -407,8 +405,8 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.32942098" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" sideWeight="0.47916666" visible="true" weight="0.22378717" />
-      <window_info anchor="right" x="0" y="0" width="280" height="572" id="Documentation" order="7" sideWeight="0.5208333" side_tool="true" visible="true" weight="0.22378717" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.47272727" weight="0.22378717" />
+      <window_info anchor="right" x="0" y="0" width="280" height="572" id="Documentation" order="7" sideWeight="0.5272727" side_tool="true" weight="0.22378717" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,13 +448,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/library/user_rating_sum.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="das://322da9a4-0eb4-4e48-8ef2-4f2bc145998c/schema/bogo/table/Rating">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/sampleData.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -516,17 +507,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://322da9a4-0eb4-4e48-8ef2-4f2bc145998c/schema/bogo/table/Rating">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/322da9a4-0eb4-4e48-8ef2-4f2bc145998c/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/driver.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="13" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
